@@ -1,0 +1,1 @@
+{"version":3,"file":"keyStrUriSafe.js","sources":["../../src/encodedURIComponent/keyStrUriSafe.ts"],"sourcesContent":["/*\n * SPDX-FileCopyrightText: 2013 Pieroxy <pieroxy@pieroxy.net>\n *\n * SPDX-License-Identifier: MIT\n */\n\nexport default \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-$\";\n"],"names":["keyStrUriSafe"],"mappings":"AAMA,MAAAA,IAAe;"}
